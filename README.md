@@ -1,4 +1,4 @@
-# ELT with ClickUP API
+# ETL with ClickUP API
 
 En este proyecto se implementa un proceso ETL utilizando Python y PostgreSQL para extraer información de entidades de Cliente y Proyecto de una API de ClickUP
 
